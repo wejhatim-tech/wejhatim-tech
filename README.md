@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Wejdan
 
-<!--
-**wejhatim-tech/wejhatim-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Communication Engineering Graduate
+💻 Aspiring Developer | IT & Data Analysis Enthusiast
 
-Here are some ideas to get you started:
+I’m passionate about technology, problem-solving, and continuous learning.
+Currently, I’m developing my web development skills through hands-on projects and a bootcamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+## 🚀 Goals
+
+* Build responsive and user-friendly web applications
+*  Strengthen my front-end development skills
+* Grow my experience in IT and Data Analysis
+
+## 📌 Interests
+
+* Web Development
+* Technology & Problem Solving
+* Continuous Learning & Self-Improvement
+
+
+📫 Open to learning, collaboration, and new opportunities.
