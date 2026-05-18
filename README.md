@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Wejdan
 
-🎓 Communication Engineering Graduate
+🎓 TeleCommunication Engineering Graduate
 💻 Aspiring Developer | IT & Data Analysis Enthusiast
 
 I’m passionate about technology, problem-solving, and continuous learning.
