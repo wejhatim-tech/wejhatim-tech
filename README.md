@@ -12,6 +12,8 @@ Currently, I’m developing my web development skills through hands-on projects 
 * CSS
 * JavaScript
 * Git & GitHub
+* Python
+* Django
 
 ## 🚀 Goals
 
